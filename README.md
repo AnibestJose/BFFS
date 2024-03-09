@@ -1,0 +1,2 @@
+# BFFS
+static toy website
